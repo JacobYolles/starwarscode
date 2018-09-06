@@ -1,9 +1,5 @@
-# Star Wars 06
+# **Instructions**
 
-## File
+* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.
 
-* `server6.js`
-
-## Instructions
-
-* Look at the file sent to you then explain to the person next to you what the `res.sendFile` line does. Then try creating a new HTML file and routing to that one instead.
+* Explain to one another what the code does, what its for, and why its relevant to the application so far. Be sure to explain to one another what the `$.post` code is doing.
